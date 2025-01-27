@@ -1,2 +1,2 @@
-# Bigdata Assignment
-Assignment 1 of "Programming to Big Data" reg#L1F20BSCS0032, SEC : D1
+# Diagnosis of the abnormality in Lungs (cancer cells)
+using python 3
